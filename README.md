@@ -8,6 +8,7 @@ Through this project, I deepened my understanding of data structures, algorithm 
 ## Implementation
 <img src="https://github.com/jasperbobasper/push_swap/blob/main/img/2023-06-11_14-59-42_AdobeExpress.gif?raw=true" />
 (a graphic visualisation of my project)
+
   - for stack numbers 5 and less, I made optimised custom algorithms
   - For larger stacks, I started by finding the LIS (longest increasing subsequence). From there, I rotated the stack until the LIS was at the top. 
   - All other elements were pushed to stack b. Both stacks are rotated until the center of the stack is at the top. 
